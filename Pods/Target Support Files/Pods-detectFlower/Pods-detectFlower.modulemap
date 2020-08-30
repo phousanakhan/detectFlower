@@ -1,0 +1,6 @@
+framework module Pods_detectFlower {
+  umbrella header "Pods-detectFlower-umbrella.h"
+
+  export *
+  module * { export * }
+}
