@@ -34,4 +34,4 @@ Angela Yu
 
 
 ## Demo
-![](flower.gif)
+![](demoDetect.gif)
